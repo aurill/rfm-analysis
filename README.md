@@ -12,10 +12,11 @@ In RFM Data Analysis, the definitions for each of the analyses are:
 
 RFM Analysis becomes highly useful in understanding the responsiveness of the customers of a particular product and provides segmentation for driven database marketing.
 
+This project can be run in a jupyter notebook environment and other environments that can run python and .ipnyb extension files. 
 
 ## **Data Preprocessing**
 
-In order to conduct RFM analysis using Python and to segment the customers accordingly, Python libraries such as pandas, numpy, and seaborn were used for the data visualization and preprocessing - _just to name a few_. 
+In order to conduct the RFM analysis and to segment the customers accordingly, various Python libraries such as pandas, numpy, and seaborn were used for the data visualization and preprocessing step-_just to name a few_. 
 These libraries provide the necessary utilities/ resources for conducting the RFM Analysis. 
 
 ```python
